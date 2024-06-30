@@ -1,0 +1,167 @@
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Free 3027 MB / Total 8025 MB
+Windows 11 Version 2009 64bit
+(1536 x 864) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.18.50.21
+
+[Info]  2023-11-19 16:56:00.842  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2023-11-19 16:56:00.849  [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2023-11-19 16:56:00.850  [booting time]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2023-11-19 16:56:00.850  [application product type name11]  "nxt"
+[Info]  2023-11-19 16:56:00.858  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 16:56:01.043  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 16:56:02.642  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 16:56:02.642  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 16:56:02.642  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 16:56:02.660  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 16:56:02.660  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 16:56:02.667  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 16:56:02.667  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 16:56:02.677  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 16:56:02.677  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 16:56:02.715  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Warn]  2023-11-19 16:56:02.727  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_instance_clicked()
+[Warn]  2023-11-19 16:56:02.727  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked()
+[Warn]  2023-11-19 16:56:03.135  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2023-11-19 16:56:03.161  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 16:56:03.198  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 16:56:03.245  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 16:56:03.245  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 16:56:03.245  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 16:56:03.261  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Warn]  2023-11-19 16:56:03.307  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2023-11-19 16:56:03.574  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 16:56:03.582  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 16:56:03.591  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 16:56:03.606  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 16:56:03.622  "app version: 0.18.50.21"
+[Info]  2023-11-19 16:56:03.622  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 16:56:03.622  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 16:56:04.218  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 16:56:04.218  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 16:56:04.218  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Warn]  2023-11-19 16:56:04.218  QObject::moveToThread: Cannot move objects with a parent
+[Info]  2023-11-19 16:56:04.234  [GRM]Start Download Grm Files
+[Info]  2023-11-19 16:56:04.234  Number of threads created:  16
+[Info]  2023-11-19 16:56:04.234  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 16:56:04.234  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 16:56:04.234  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 16:56:04.234  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 16:56:04.249  [booting time][start]:[update][get version] url=  "https://x-api.bluestacks.com/get_version?version=0.18.50.21&oem=nxt"
+[Info]  2023-11-19 16:56:04.249  [Update] request country code url=  "https://cloud.bluestacks.com/api/getcountryforip"
+[Warn]  2023-11-19 16:56:04.343  QLayout: Attempting to add QLayout "" to BslMainWindow "BslMainWindow", which already has a layout
+[Info]  2023-11-19 16:56:04.532  [booting time][start]:  booting view
+[Info]  2023-11-19 16:56:04.532  [booting time][start]: [home webengine] set url:  "https://bsxplayerv4.bluestacks.com/home"
+[Info]  2023-11-19 16:56:04.650  domain test host:  "bsxplayerv4.bluestacks.com"
+[Info]  2023-11-19 16:56:04.651  [remove cs booting type]
+[Info]  2023-11-19 16:56:04.653  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 16:56:04.654  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 16:56:04.655  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 16:56:04.657  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 16:56:04.658  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 16:56:04.659  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 16:56:04.661  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 16:56:04.662  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 16:56:04.663  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 16:56:04.664  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 16:56:04.665  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 16:56:04.666  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 16:56:04.667  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 16:56:04.668  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 16:56:04.992  [Update] http callback:  "{\"success\":true,\"versionCode\":\"0.0.0.0\",\"message\":\"info is none\",\"iso_code\":\"IN\"}"
+[Info]  2023-11-19 16:56:04.993  [booting time][finish]:[update][get version] request success
+[Info]  2023-11-19 16:56:05.015  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 16:56:05.016  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 16:56:05.017  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 16:56:05.018  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 16:56:05.019  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 16:56:05.021  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 16:56:05.022  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 16:56:05.023  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 16:56:05.024  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 16:56:05.026  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 16:56:05.027  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 16:56:05.028  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 16:56:05.029  [HYPER_V] Machine Virtualization deceted VirtualBox
+[Info]  2023-11-19 16:56:05.030  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 16:56:05.032  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 16:56:05.033  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 16:56:05.034  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 16:56:05.035  [SETTING] Play game strategy type is set to:  0
+[Info]  2023-11-19 16:56:05.037  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 16:56:05.038  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 16:56:05.039  [FEEDBACK] Getting remote category version...
+[Info]  2023-11-19 16:56:05.040  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 16:56:05.042  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 16:56:05.043  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 16:56:05.044  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 16:56:05.045  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 16:56:05.046  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 16:56:05.049  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 16:56:05.050  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 16:56:05.051  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 16:56:05.090  [Update] http callback:  "{\"country\": \"IN\", \"latlong\": \"28.686274,77.221783\"}"
+[Info]  2023-11-19 16:56:05.091  [PlayerMode] country code is:  "IN"
+[Info]  2023-11-19 16:56:05.093  [booting time][finish]:  "country code"
+[Info]  2023-11-19 16:56:05.103  [UPDATE]Using internet update
+[Info]  2023-11-19 16:56:05.104  [UPDATE]Returned local BS5 compatible true
+[Info]  2023-11-19 16:56:05.105  [UPDATE]Returned local BS5 version: "5.9.350.1035"
+[Info]  2023-11-19 16:56:05.106  [UPDATE]No remote BS5 version returned
+[Info]  2023-11-19 16:56:05.107  [UPDATE]Default image for virtual box is set to "Nougat32"
+[Info]  2023-11-19 16:56:05.109  [UPDATE]Default image for Hyper-V is set to "Nougat64"
+[Info]  2023-11-19 16:56:05.110  [UPDATE]Returned supported player images
+[Info]  2023-11-19 16:56:05.111  [GRM]Grm File Downloaded Finished
+[Info]  2023-11-19 16:56:05.112  [booting time][start] Grm Config File Downloaded started
+[Info]  2023-11-19 16:56:05.169  load url:  "https://bsxplayerv4.bluestacks.com/home"
+[Info]  2023-11-19 16:56:05.169  [Update] can enter mainwindow.
+[Info]  2023-11-19 16:56:05.169  [Update] can enter mainwindow.
+[Info]  2023-11-19 16:56:05.294  [FEEDBACK] Getting remote category version finished
+[Info]  2023-11-19 16:56:05.294  [FEEDBACK] Remote category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2023-11-19 16:56:05.294  [FEEDBACK] Reading local category...
+[Info]  2023-11-19 16:56:05.294  [FEEDBACK] Local category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2023-11-19 16:56:05.294  [FEEDBACK] Category resolved finished with length of en of 8
+[Info]  2023-11-19 16:56:05.451  [STATS]STATS: get_quest_info -> 200
+[Info]  2023-11-19 16:56:05.451  [STATS]STATS: quest enabled -> 200
+[Info]  2023-11-19 16:56:05.451  [STATS]STATS: {24a96eee-bb20-4f7f-8814-32239ab68737} -> 200
+[Info]  2023-11-19 16:56:05.639  [UPDATE]Empty download url in quick download.
+[Info]  2023-11-19 16:56:05.639  [BRIDGE]Bridge file found! Loading bridge file...
+[Info]  2023-11-19 16:56:05.654  [BRIDGE]Loading Bridge...  "C:/Users/stanu/AppData/Local/BlueStacks X/Bridge/5.9.350.1035/HD-Bridge-Native.dll" with
+[Info]  2023-11-19 16:56:05.670  true...
+[Info]  2023-11-19 16:56:05.686  [BRIDGE] Bridge creatorStudio called with json of 
+{
+    "name": "enableCsEffect",
+    "params": {
+        "isEnable": false
+    }
+}
+
+[Info]  2023-11-19 16:56:05.686  Bridge -> update effect ins: "Nougat32"  uid: ""  token: ""
+[Info]  2023-11-19 16:56:05.952  [STATS]STATS: {e7676ec5-82af-477c-a459-e0e10702d8d4} -> 200
+[Info]  2023-11-19 16:56:06.274  [booting time][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.9.350.1035&oem=nxt&locale=en"
+[Info]  2023-11-19 16:56:06.422  [BRIDGE]Bridge locale changed to "en-US"
+[Info]  2023-11-19 16:56:06.556  [GRM]Grm Config File Downloaded Finished
+[Info]  2023-11-19 16:56:06.557  [booting time][finish] Grm Config File Downloaded Finished
+[Info]  2023-11-19 16:56:06.932  [GRM]Grm Download System Finished with success
+[Info]  2023-11-19 16:56:06.972  [booting time][finish]: [Get app image preference] success
+[Warn]  2023-11-19 16:56:07.222  "Wrong GlMode of AGA_DX ofcom.garena.game.ftmtw"
+[Warn]  2023-11-19 16:56:07.238  "Wrong GlMode of AGA_DX ofcom.firstmeetgame.fairytailtw.gp"
+[Warn]  2023-11-19 16:56:07.379  "Wrong GlMode of AGA_DX ofcom.SnipeGames.MaidMaster"
+[Warn]  2023-11-19 16:56:07.379  "Wrong GlMode of AGA_DX ofcom.SnipeGames.MaidMaster"
+[Info]  2023-11-19 16:56:07.458  [GRM] Reading Grm file finished with 526 ms
+[Info]  2023-11-19 16:56:07.458  [GRM] Grm resolved with 1128
+[Info]  2023-11-19 16:56:07.458  [GRM] Grm resolved BS5 update with 50
+[Warn]  2023-11-19 16:56:07.474  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2023-11-19 16:56:07.486  player url:  ""
+[Info]  2023-11-19 16:56:07.487  Using VLC Player..............................
+[Info]  2023-11-19 16:56:07.490  [DB] BSX is shutting down, Video is off.
+[Info]  2023-11-19 16:56:07.508  [BRIDGE] Requesting shutdown the instance "Nougat32" ,only in hidden true
+[Info]  2023-11-19 16:56:07.510  [BRIDGE] Requesting shutdown the instance "Nougat32_1" ,only in hidden true
+[Info]  2023-11-19 16:56:07.512  [BRIDGE] Requesting shutdown the instance "Nougat32_2" ,only in hidden true
+[Warn]  2023-11-19 16:56:07.616  将根据已有的meta标签来设置缩放比例
+[Info]  2023-11-19 16:56:07.948  [STATS]STATS: {9ef36375-0623-47dd-8b49-68150a3ae4e3} -> 200
+[Info]  2023-11-19 16:56:08.369  [DB] vlc init
+[Info]  2023-11-19 16:56:08.461  [STATS]Data sent total: 4 , S = 4 , F = 0

@@ -1,0 +1,13 @@
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Free 4158 MB / Total 8025 MB
+Windows 11 Version 2009 64bit
+(1536 x 864) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.18.50.21
+
+[Info]  2022-11-06 20:09:17.653  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2022-11-06 20:09:17.653  [app run cmd]:  "C:\\\\Program Files (x86)\\\\BlueStacks X\\\\BlueStacks X.exe ; BlueStacksX:{\"event\":\"shortcut\",\"data\":{\"package\":\"com.azurgames.BattleGroundRoyale\",\"instance\":\"Nougat32\"}} ; "
+[Info]  2022-11-06 20:09:17.654  [booting time]:[main] "C:\\\\Program Files (x86)\\\\BlueStacks X\\\\BlueStacks X.exe ; BlueStacksX:{\"event\":\"shortcut\",\"data\":{\"package\":\"com.azurgames.BattleGroundRoyale\",\"instance\":\"Nougat32\"}} ; "

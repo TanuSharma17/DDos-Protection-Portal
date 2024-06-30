@@ -1,0 +1,345 @@
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Free 1022 MB / Total 8025 MB
+Windows 11 Version 2009 64bit
+(1536 x 864) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.18.50.21
+
+[Info]  2023-11-19 14:29:37.499  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2023-11-19 14:29:37.501  [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2023-11-19 14:29:37.501  [booting time]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2023-11-19 14:29:37.501  [application product type name11]  "nxt"
+[Info]  2023-11-19 14:29:37.573  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 14:29:38.021  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 14:29:40.129  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 14:29:40.129  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 14:29:40.169  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 14:29:40.175  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 14:29:40.201  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 14:29:40.201  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 14:29:40.234  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 14:29:40.234  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 14:29:40.291  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 14:29:40.374  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Warn]  2023-11-19 14:29:40.379  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_instance_clicked()
+[Warn]  2023-11-19 14:29:40.379  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked()
+[Warn]  2023-11-19 14:29:41.089  QFSFileEngine::open: No file name specified
+[Warn]  2023-11-19 14:29:41.113  QCoreApplication::postEvent: Unexpected null receiver
+[Warn]  2023-11-19 14:29:41.130  QFSFileEngine::open: No file name specified
+[Info]  2023-11-19 14:29:41.230  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 14:29:41.252  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 14:29:41.366  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 14:29:41.374  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 14:29:41.430  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 14:29:41.438  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Warn]  2023-11-19 14:29:41.510  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2023-11-19 14:29:41.904  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 14:29:41.910  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 14:29:41.970  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 14:29:41.983  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 14:29:41.991  "app version: 0.18.50.21"
+[Info]  2023-11-19 14:29:42.055  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 14:29:42.063  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Warn]  2023-11-19 14:29:42.346  QFSFileEngine::open: No file name specified
+[Warn]  2023-11-19 14:29:42.540  QFSFileEngine::open: No file name specified
+[Info]  2023-11-19 14:29:42.628  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 14:29:42.630  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 14:29:42.630  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Warn]  2023-11-19 14:29:42.634  QObject::moveToThread: Cannot move objects with a parent
+[Info]  2023-11-19 14:29:42.646  [GRM]Start Download Grm Files
+[Info]  2023-11-19 14:29:42.646  Number of threads created:  16
+[Info]  2023-11-19 14:29:42.646  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 14:29:42.650  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 14:29:42.651  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 14:29:42.652  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 14:29:42.670  [booting time][start]:[update][get version] url=  "https://x-api.bluestacks.com/get_version?version=0.18.50.21&oem=nxt"
+[Info]  2023-11-19 14:29:42.670  [Update] request country code url=  "https://cloud.bluestacks.com/api/getcountryforip"
+[Warn]  2023-11-19 14:29:42.738  QLayout: Attempting to add QLayout "" to BslMainWindow "BslMainWindow", which already has a layout
+[Info]  2023-11-19 14:29:42.852  [booting time][start]:  booting view
+[Info]  2023-11-19 14:29:42.852  [booting time][start]: [home webengine] set url:  "https://bsxplayerv4.bluestacks.com/home"
+[Info]  2023-11-19 14:29:42.934  domain test host:  "bsxplayerv4.bluestacks.com"
+[Info]  2023-11-19 14:29:42.936  [remove cs booting type]
+[Info]  2023-11-19 14:29:42.937  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 14:29:42.938  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 14:29:42.938  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 14:29:42.939  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 14:29:42.940  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 14:29:42.940  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 14:29:42.941  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 14:29:42.941  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 14:29:42.942  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 14:29:42.943  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 14:29:42.943  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 14:29:42.944  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 14:29:42.945  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 14:29:42.945  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 14:29:43.170  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 14:29:43.170  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 14:29:43.171  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 14:29:43.171  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 14:29:43.172  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2023-11-19 14:29:43.173  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 14:29:43.173  [SETTING] Play game strategy type is set to:  0
+[Info]  2023-11-19 14:29:43.174  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2023-11-19 14:29:43.175  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 14:29:43.175  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2023-11-19 14:29:43.176  [FEEDBACK] Getting remote category version...
+[Info]  2023-11-19 14:29:43.176  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 14:29:43.177  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2023-11-19 14:29:43.177  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 14:29:43.178  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2023-11-19 14:29:43.178  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 14:29:43.179  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2023-11-19 14:29:43.180  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 14:29:43.180  [HYPER_V] Machine Virtualization deceted VirtualBox
+[Info]  2023-11-19 14:29:43.180  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2023-11-19 14:29:43.181  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 14:29:43.181  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2023-11-19 14:29:43.182  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 14:29:43.182  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2023-11-19 14:29:43.183  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 14:29:43.183  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2023-11-19 14:29:43.184  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 14:29:43.184  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2023-11-19 14:29:43.185  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 14:29:43.185  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2023-11-19 14:29:43.271  load url:  "https://bsxplayerv4.bluestacks.com/home"
+[Info]  2023-11-19 14:29:43.424  [Update] http callback:  "{\"country\": \"IN\", \"latlong\": \"28.686274,77.221783\"}"
+[Info]  2023-11-19 14:29:43.433  [PlayerMode] country code is:  "IN"
+[Info]  2023-11-19 14:29:43.435  [booting time][finish]:  "country code"
+[Info]  2023-11-19 14:29:43.440  [GRM]Grm File Downloaded Finished
+[Info]  2023-11-19 14:29:43.440  [booting time][start] Grm Config File Downloaded started
+[Info]  2023-11-19 14:29:43.532  [STATS]STATS: get_quest_info -> 200
+[Info]  2023-11-19 14:29:43.533  [STATS]STATS: quest enabled -> 200
+[Info]  2023-11-19 14:29:43.539  [FEEDBACK] Getting remote category version finished
+[Info]  2023-11-19 14:29:43.543  [FEEDBACK] Remote category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2023-11-19 14:29:43.543  [FEEDBACK] Reading local category...
+[Info]  2023-11-19 14:29:43.552  [FEEDBACK] Local category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2023-11-19 14:29:43.552  [FEEDBACK] Category resolved finished with length of en of 8
+[Info]  2023-11-19 14:29:43.571  [STATS]STATS: {3c88c3e0-9cbf-43be-a5a3-bcb6749c5f86} -> 200
+[Info]  2023-11-19 14:29:43.600  [UPDATE]Using internet update
+[Info]  2023-11-19 14:29:43.601  [UPDATE]Returned local BS5 compatible true
+[Info]  2023-11-19 14:29:43.601  [UPDATE]Returned local BS5 version: "5.9.350.1035"
+[Info]  2023-11-19 14:29:43.601  [UPDATE]No remote BS5 version returned
+[Info]  2023-11-19 14:29:43.602  [UPDATE]Default image for virtual box is set to "Nougat32"
+[Info]  2023-11-19 14:29:43.602  [UPDATE]Default image for Hyper-V is set to "Nougat64"
+[Info]  2023-11-19 14:29:43.603  [UPDATE]Returned supported player images
+[Info]  2023-11-19 14:29:43.613  [UPDATE]Empty download url in quick download.
+[Info]  2023-11-19 14:29:43.615  [BRIDGE]Bridge file found! Loading bridge file...
+[Info]  2023-11-19 14:29:43.617  [BRIDGE]Loading Bridge...  "C:/Users/stanu/AppData/Local/BlueStacks X/Bridge/5.9.350.1035/HD-Bridge-Native.dll" with
+[Info]  2023-11-19 14:29:43.638  true...
+[Info]  2023-11-19 14:29:43.641  [BRIDGE] Bridge creatorStudio called with json of 
+{
+    "name": "enableCsEffect",
+    "params": {
+        "isEnable": false
+    }
+}
+
+[Info]  2023-11-19 14:29:43.642  Bridge -> update effect ins: "Nougat32"  uid: ""  token: ""
+[Info]  2023-11-19 14:29:43.677  [GRM]Grm Config File Downloaded Finished
+[Info]  2023-11-19 14:29:43.678  [booting time][finish] Grm Config File Downloaded Finished
+[Info]  2023-11-19 14:29:43.684  [remove file]: "com.azurgames.BattleGroundRoyale" time:  "2023-04-02 09:36:35 -> 2023-11-19 14:29:43"   minutes:  19975988
+[Info]  2023-11-19 14:29:43.833  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.835  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.869  [remove file]: "net.one97.paytm" time:  "2023-04-02 09:36:35 -> 2023-11-19 14:29:43"   minutes:  19975988
+[Info]  2023-11-19 14:29:43.869  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.870  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.871  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.892  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.893  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.894  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.896  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.921  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.922  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.939  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:43.939  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.941  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:43.942  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:43.943  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:43.973  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:43.974  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:43.975  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:43.978  [STATS]STATS: {51dfe596-cb5a-43f0-9a0c-0a1f3f80df4a} -> 200
+[Info]  2023-11-19 14:29:44.023  [booting time][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.9.350.1035&oem=nxt&locale=en"
+[Info]  2023-11-19 14:29:44.063  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:44.065  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:44.070  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:44.090  [BRIDGE]Bridge locale changed to "en-US"
+[Info]  2023-11-19 14:29:44.092  [GRM]Grm Download System Finished with success
+[Warn]  2023-11-19 14:29:44.199  "Wrong GlMode of AGA_DX ofcom.garena.game.ftmtw"
+[Warn]  2023-11-19 14:29:44.204  "Wrong GlMode of AGA_DX ofcom.firstmeetgame.fairytailtw.gp"
+[Warn]  2023-11-19 14:29:44.262  "Wrong GlMode of AGA_DX ofcom.SnipeGames.MaidMaster"
+[Warn]  2023-11-19 14:29:44.263  "Wrong GlMode of AGA_DX ofcom.SnipeGames.MaidMaster"
+[Info]  2023-11-19 14:29:44.301  [GRM] Reading Grm file finished with 207 ms
+[Info]  2023-11-19 14:29:44.302  [GRM] Grm resolved with 1128
+[Info]  2023-11-19 14:29:44.302  [GRM] Grm resolved BS5 update with 50
+[Info]  2023-11-19 14:29:44.509  [booting time][finish]: [Get app image preference] success
+[Info]  2023-11-19 14:29:44.785  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:44.788  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Warn]  2023-11-19 14:29:44.828  将根据已有的meta标签来设置缩放比例
+[Warn]  2023-11-19 14:29:45.097  Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+[Info]  2023-11-19 14:29:45.119  "[booting time][finish]:qwebChannelConnectCompleted"
+[Info]  2023-11-19 14:29:45.119  [postWebVersionInfo(BSX)]:
+ {
+    "data": {
+        "name": "BlueStacks X Version",
+        "stamp": "20220908-0623_prod",
+        "version": "bsxweb-v0.18.30.1001"
+    },
+    "event": "postWebVersionInfo",
+    "ga": {
+    },
+    "page": 0
+}
+
+[Info]  2023-11-19 14:29:45.119  "[booting time][start]:preClientConfigFetch"
+[Info]  2023-11-19 14:29:45.122  [booting time][finish]: [home webengine] load success
+[Info]  2023-11-19 14:29:45.651  "[booting time][finish]:preClientConfigFetch"
+[Info]  2023-11-19 14:29:45.704  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:45.704  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:45.806  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:45.806  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:45.921  "[booting time][start]:preCoreDataLoad"
+[Info]  2023-11-19 14:29:45.922  "[booting time][start]:fetchFeatureApps"
+[Info]  2023-11-19 14:29:45.924  "[booting time][start]:fetchRotationApps"
+[Info]  2023-11-19 14:29:45.925  "[booting time][start]:fetchGameCenterApps"
+[Info]  2023-11-19 14:29:46.184  "[booting time][finish]:fetchFeatureApps"
+[Info]  2023-11-19 14:29:46.229  "[booting time][finish]:fetchGameCenterApps"
+[Info]  2023-11-19 14:29:46.368  "[booting time][finish]:fetchRotationApps"
+[Info]  2023-11-19 14:29:46.368  "[booting time][finish]:preCoreDataLoad"
+[Info]  2023-11-19 14:29:46.368  "[booting time][finish]:showWebPage"
+[Info]  2023-11-19 14:29:46.379  [booting time][finish]:  "home web page"
+[Info]  2023-11-19 14:29:46.379  [booting time][finish]:  booting view
+[Info]  2023-11-19 14:29:46.380  player url:  ""
+[Info]  2023-11-19 14:29:46.384  Using VLC Player..............................
+[Info]  2023-11-19 14:29:46.384  [Update] http callback:  "{\"success\":true,\"versionCode\":\"0.0.0.0\",\"message\":\"info is none\",\"iso_code\":\"IN\"}"
+[Info]  2023-11-19 14:29:46.386  [booting time][finish]:[update][get version] request success
+[Info]  2023-11-19 14:29:46.387  [Update] can enter mainwindow.
+[Info]  2023-11-19 14:29:46.387  [Update] can enter mainwindow.
+[Info]  2023-11-19 14:29:46.506  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:46.509  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:47.295  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:47.300  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:47.323  [DB] vlc init
+[Info]  2023-11-19 14:29:47.606  [enter mainwindow.......]
+[Info]  2023-11-19 14:29:47.656  [PlayerMode] Remove the cloud mode function module.
+[Info]  2023-11-19 14:29:47.724  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:47.724  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:48.010  [STATS]STATS: {29f521a5-e189-4728-a071-8df1521c99e0} -> 200
+[Info]  2023-11-19 14:29:48.445  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:48.445  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:49.301  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:49.305  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:50.492  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:50.492  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:52.731  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:52.736  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:53.181  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:53.183  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:53.549  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:53.556  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:53.989  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:53.989  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:54.398  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:54.398  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:55.348  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:55.348  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:55.711  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:55.711  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:56.088  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:56.088  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:56.541  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:56.541  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:29:58.639  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:58.641  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:59.134  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:59.134  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:59.570  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:59.570  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:59.828  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:59.861  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:29:59.963  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:29:59.968  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:00.206  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:00.209  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:00.413  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:00.416  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:00.625  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:00.629  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:00.894  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:00.906  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:01.095  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:01.095  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:01.551  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:01.556  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:01.774  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:01.781  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:30:01.948  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:01.952  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:02.284  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:02.284  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:30:02.423  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:02.423  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:02.785  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:02.785  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&oem=nxt"
+[Info]  2023-11-19 14:30:02.810  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:02.815  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:30:03.214  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:30:03.214  [booting time][finish]: [Download MyGame's Game Icon] success
+[Warn]  2023-11-19 14:30:05.686  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2023-11-19 14:30:05.762  player url:  ""
+[Info]  2023-11-19 14:30:06.107  [STATS]STATS: {83e32673-2770-4a59-823a-ad78448d64c7} -> 200
+[Info]  2023-11-19 14:30:06.411  player url:  "https://cdn-bgp.bluestacks.com/BGP/us/app_page_in.startv.hotstar.jpg"
+[Info]  2023-11-19 14:30:06.524  banner download finished: "https___cdn-bgp.bluestacks.com_BGP_us_app_page_in.startv.hotstar.jpg"
+[Info]  2023-11-19 14:30:10.015  [MyGame]: Promotion action =  "" ""
+[Info]  2023-11-19 14:30:10.018  [MyGamePlugin play]: "" , "in.startv.hotstar" , 1 , 0
+[Info]  2023-11-19 14:30:10.025  [MyGamePlugin] Is it a special effect game? false
+[Info]  2023-11-19 14:30:10.025  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2023-11-19 14:30:10.029  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2023-11-19 14:30:10.029  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2023-11-19 14:30:10.034  bridgeLaunchAppStore: instance= "Nougat32" package= "in.startv.hotstar" with id "00000000-0000-0000-0000-000000000000" in ""
+[Info]  2023-11-19 14:30:10.065  bridgeLaunchAppStore: 0
+[Info]  2023-11-19 14:30:10.069  [INSTALL_GAME] Installing game of in.startv.hotstar through GooglePlay
+[Info]  2023-11-19 14:30:10.363  [STATS]STATS: {71e10786-a2e9-4a31-8be7-05cbe47f0391} -> 200
+[Info]  2023-11-19 14:30:10.387  [STATS]STATS: {ab7528c7-044a-4a0b-9699-28daa8801f85} -> 200
+[Info]  2023-11-19 14:30:12.250  [BRIDGE]CB: Instance state updated Nougat32 : 0 (  ).
+[Info]  2023-11-19 14:30:12.270  [BRIDGE]CB: Instance state updated Nougat32 : 1 (  ).
+[Info]  2023-11-19 14:30:14.024  [BRIDGE]CB: Instance state updated Nougat32 : 2 (  ).
+[Info]  2023-11-19 14:30:21.119  [BRIDGE]CB: Instance state updated Nougat32 : 3 (  ).
+[Info]  2023-11-19 14:30:21.360  [BRIDGE]CB: App displayed in Nougat32 of com.bluestacks.launcher
+[Info]  2023-11-19 14:30:23.206  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2023-11-19 14:30:27.502  [BRIDGE]CB: App displayed in Nougat32 of com.google.android.gms
+[Info]  2023-11-19 14:32:03.380  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2023-11-19 14:32:03.612  [BRIDGE]CB: App displayed in Nougat32 of android
+[Info]  2023-11-19 14:32:09.760  [BRIDGE]CB: App displayed in Nougat32 of com.google.android.gms
+[Info]  2023-11-19 14:32:53.115  [BRIDGE]CB: Account list updated in Nougat32 with ID of tanu33117@gmail.com in 0
+[Info]  2023-11-19 14:32:54.983  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2023-11-19 14:32:57.117  [BRIDGE]CB: App displayed in Nougat32 of com.google.android.gms
+[Info]  2023-11-19 14:35:22.718  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2023-11-19 14:35:22.945  [BRIDGE]CB: App displayed in Nougat32 of android
+[Info]  2023-11-19 14:35:24.163  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2023-11-19 14:35:26.433  [BRIDGE]CB: App displayed in Nougat32 of com.bluestacks.launcher
+[Info]  2023-11-19 14:35:29.313  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2023-11-19 14:35:54.431  [BRIDGE]CB: App installed with in.startv.hotstar in Nougat32
+[Info]  2023-11-19 14:35:54.433  Installed: instance= Nougat32 package= in.startv.hotstar
+[Info]  2023-11-19 14:35:54.491  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=in.startv.hotstar&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:35:54.508  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=in.startv.hotstar&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:35:54.556  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=in.startv.hotstar&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:35:54.561  [booting time][start]: [Download MyGame's Game Icon] url=  "https://cloud.bluestacks.com/app/icon?pkg=in.startv.hotstar&use_cdn=true&w=300&oem=nxt"
+[Info]  2023-11-19 14:35:54.920  [STATS]STATS: {37a1d3da-1a08-4d78-a631-f3ee0d59e9e3} -> 200
+[Info]  2023-11-19 14:35:54.954  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:35:54.955  [booting time][finish]: [Download MyGame's Game Icon] success
+[Info]  2023-11-19 14:35:57.509  [BRIDGE]CB: App displayed in Nougat32 of in.startv.hotstar
+[Warn]  2023-11-19 14:36:41.003  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2023-11-19 14:36:41.011  player url:  ""
+[Info]  2023-11-19 14:36:41.014  [DB] BSX is shutting down, Video is off.
+[Info]  2023-11-19 14:36:41.027  [BRIDGE] Requesting shutdown the instance "Nougat32" ,only in hidden true
+[Info]  2023-11-19 14:36:41.031  [BRIDGE] Requesting shutdown the instance "Nougat32_1" ,only in hidden true
+[Info]  2023-11-19 14:36:41.033  [BRIDGE] Requesting shutdown the instance "Nougat32_2" ,only in hidden true
+[Info]  2023-11-19 14:36:41.478  [STATS]STATS: {6b2a56f4-be97-4d5d-8b4d-b0a96dcbc990} -> 200
+[Info]  2023-11-19 14:36:41.479  [STATS]STATS: {86d2dabb-a05a-4d90-a2bf-c75e4f874a6c} -> 200
+[Info]  2023-11-19 14:36:41.667  [STATS]Data sent total: 10 , S = 10 , F = 0

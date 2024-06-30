@@ -1,0 +1,109 @@
+{
+    "apps": [
+        {
+            "action": "",
+            "apk_url": "",
+            "app_flag": 3,
+            "banner_url": "",
+            "banner_url_v": "",
+            "cloud_app_url": "",
+            "cloud_supported": false,
+            "cloud_type": "",
+            "cloud_update": 0,
+            "engine": "Nougat32",
+            "game_name": "PIXEL'S UNKNOWN BATTLE GROUND",
+            "game_play_preference": [
+            ],
+            "genre": "",
+            "icon_url": "https://cloud.bluestacks.com/app/icon?pkg=com.azurgames.BattleGroundRoyale&use_cdn=true",
+            "instance": "",
+            "is_nowgg_login_required": false,
+            "local_update": 1667745554799,
+            "package_name": "com.azurgames.BattleGroundRoyale",
+            "section": "",
+            "time": 1700393175036,
+            "video_url": ""
+        },
+        {
+            "action": "InstallCDN",
+            "apk_url": "https://cdn3.bluestacks.com/bluestacks-app-store/Internal/com.dts.freefiremax/ApkPure/2.92.1/com.dts.freefiremax.xapk",
+            "app_flag": 3,
+            "banner_url": "",
+            "banner_url_v": "https://cdn-bgp.bluestacks.com/BGP/in/gametiles_com.dts.freefiremax.jpg?2022-11-04T10:10:16",
+            "cloud_app_url": "",
+            "cloud_supported": false,
+            "cloud_type": "",
+            "cloud_update": 0,
+            "engine": "",
+            "game_name": "Garena Free Fire MAX",
+            "game_play_preference": [
+                "local"
+            ],
+            "genre": "",
+            "icon_url": "https://cloud.bluestacks.com/app/icon?pkg=com.dts.freefiremax&use_cdn=true&w=300",
+            "instance": "",
+            "is_nowgg_login_required": false,
+            "local_update": 1667746158370,
+            "package_name": "com.dts.freefiremax",
+            "section": "ApkInstallation",
+            "time": 1700393175190,
+            "video_url": ""
+        },
+        {
+            "action": "",
+            "apk_url": "",
+            "app_flag": 3,
+            "banner_url": "",
+            "banner_url_v": "",
+            "cloud_app_url": "",
+            "cloud_supported": false,
+            "cloud_type": "",
+            "cloud_update": 0,
+            "engine": "",
+            "game_name": "Hotstar",
+            "game_play_preference": [
+                "local"
+            ],
+            "genre": "",
+            "icon_url": "https://cloud.bluestacks.com/app/icon?pkg=in.startv.hotstar&use_cdn=true&w=300",
+            "instance": "",
+            "is_nowgg_login_required": false,
+            "local_update": 1700384754439,
+            "package_name": "in.startv.hotstar",
+            "section": "",
+            "time": 1700393207258,
+            "video_url": ""
+        },
+        {
+            "action": "",
+            "apk_url": "",
+            "app_flag": 3,
+            "banner_url": "",
+            "banner_url_v": "",
+            "cloud_app_url": "",
+            "cloud_supported": false,
+            "cloud_type": "",
+            "cloud_update": 0,
+            "engine": "",
+            "game_name": "Paytm: Secure UPI Payments",
+            "game_play_preference": [
+                "local"
+            ],
+            "genre": "",
+            "icon_url": "https://cloud.bluestacks.com/app/icon?pkg=net.one97.paytm&use_cdn=true&w=300",
+            "instance": "",
+            "is_nowgg_login_required": false,
+            "local_update": 1667820478582,
+            "package_name": "net.one97.paytm",
+            "section": "",
+            "time": 1700393175036,
+            "video_url": ""
+        }
+    ],
+    "engine": [
+        {
+            "name": "Nougat32",
+            "type": 0
+        }
+    ]
+}

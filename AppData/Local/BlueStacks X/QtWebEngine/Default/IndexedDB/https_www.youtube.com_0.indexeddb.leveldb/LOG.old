@@ -1,0 +1,14 @@
+2023/11/19-14:30:07.495 7240 Reusing MANIFEST C:\Users\stanu\AppData\Local\BlueStacks X\QtWebEngine\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/19-14:30:07.511 7240 Recovering log #4
+2023/11/19-14:30:07.513 7240 Reusing old log C:\Users\stanu\AppData\Local\BlueStacks X\QtWebEngine\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/11/19-14:30:08.074 9664 Level-0 table #8: started
+2023/11/19-14:30:08.079 9664 Level-0 table #8: 13767 bytes OK
+2023/11/19-14:30:08.082 9664 Delete type=0 #4
+2023/11/19-14:30:08.082 9664 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/19-14:30:08.083 9664 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 320 : 1
+2023/11/19-14:30:08.083 9664 Compacting 1@1 + 1@2 files
+2023/11/19-14:30:08.098 9664 Generated table #9@1: 40 keys, 1060 bytes
+2023/11/19-14:30:08.098 9664 Compacted 1@1 + 1@2 files => 1060 bytes
+2023/11/19-14:30:08.100 9664 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/19-14:30:08.101 9664 Delete type=2 #8
+2023/11/19-14:30:08.102 9664 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 320 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,336 @@
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Free 2711 MB / Total 8025 MB
+Windows 11 Version 2009 64bit
+(1536 x 864) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.18.50.21
+
+[Info]  2022-11-06 19:22:52.411  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2022-11-06 19:22:52.411  [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-11-06 19:22:52.411  [booting time]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-11-06 19:22:52.411  [application product type name11]  "nxt"
+[Info]  2022-11-06 19:22:52.411  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+
+Free 2678 MB / Total 8025 MB
+Windows 11 Version 2009 64bit
+(1536 x 864) x 1 number
+url p: "C:\Program Files (x86)\BlueStacks X\BlueStacks X.exe" -open "%1"
+app path: C:/Program Files (x86)/BlueStacks X
+config version: 
+app version:0.18.50.21
+
+[Info]  2022-11-06 19:22:52.537  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-11-06 19:22:52.725  [QTWEBENGINEPROCESS_PATH]: "BlueStacksWeb.exe"
+[Info]  2022-11-06 19:22:52.725  [app run cmd]:  "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Info]  2022-11-06 19:22:52.725  [booting time]:[main] "C:\\Program Files (x86)\\BlueStacks X\\BlueStacks X.exe ; "
+[Warn]  2022-11-06 19:22:52.725  QIODevice::write (QLocalSocket): device not open
+[Info]  2022-11-06 19:22:54.294  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-11-06 19:22:54.310  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-11-06 19:22:54.310  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-11-06 19:22:54.321  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-11-06 19:22:54.323  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2022-11-06 19:22:54.326  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2022-11-06 19:22:54.326  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-11-06 19:22:54.326  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-11-06 19:22:54.326  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-11-06 19:22:54.357  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Warn]  2022-11-06 19:22:54.357  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_instance_clicked()
+[Warn]  2022-11-06 19:22:54.357  QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked()
+[Warn]  2022-11-06 19:22:54.577  QFSFileEngine::open: No file name specified
+[Warn]  2022-11-06 19:22:54.624  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-11-06 19:22:54.639  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-11-06 19:22:54.671  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-11-06 19:22:54.687  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2022-11-06 19:22:54.702  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2022-11-06 19:22:54.702  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-11-06 19:22:54.702  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Warn]  2022-11-06 19:22:54.734  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-11-06 19:22:54.906  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-11-06 19:22:54.922  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-11-06 19:22:54.922  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-11-06 19:22:54.922  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-11-06 19:22:54.937  "app version: 0.18.50.21"
+[Info]  2022-11-06 19:22:54.937  [booting time][start]: [load plugin] =  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-11-06 19:22:54.937  [booting time][finish]: [load plugin] success  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Warn]  2022-11-06 19:22:55.063  QFSFileEngine::open: No file name specified
+[Info]  2022-11-06 19:22:55.399  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-11-06 19:22:55.399  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-11-06 19:22:55.399  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Warn]  2022-11-06 19:22:55.408  QObject::moveToThread: Cannot move objects with a parent
+[Info]  2022-11-06 19:22:55.408  [GRM]Start Download Grm Files
+[Info]  2022-11-06 19:22:55.408  Number of threads created:  16
+[Info]  2022-11-06 19:22:55.408  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.408  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.424  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.424  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-11-06 19:22:55.424  [booting time][start]:[update][get version] url=  "https://x-api.bluestacks.com/get_version?version=0.18.50.21&oem=nxt"
+[Info]  2022-11-06 19:22:55.424  [Update] request country code url=  "https://cloud.bluestacks.com/api/getcountryforip"
+[Warn]  2022-11-06 19:22:55.487  QLayout: Attempting to add QLayout "" to BslMainWindow "BslMainWindow", which already has a layout
+[Info]  2022-11-06 19:22:55.597  [booting time][start]:  booting view
+[Info]  2022-11-06 19:22:55.597  [booting time][start]: [home webengine] set url:  "https://bsxplayerv4.bluestacks.com/home"
+[Info]  2022-11-06 19:22:55.633  domain test host:  "bsxplayerv4.bluestacks.com"
+[Info]  2022-11-06 19:22:55.634  [remove cs booting type]
+[Info]  2022-11-06 19:22:55.636  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-11-06 19:22:55.637  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-11-06 19:22:55.638  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-11-06 19:22:55.639  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-11-06 19:22:55.733  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-11-06 19:22:55.734  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2022-11-06 19:22:55.735  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2022-11-06 19:22:55.736  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-11-06 19:22:55.737  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-11-06 19:22:55.737  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2022-11-06 19:22:55.738  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2022-11-06 19:22:55.739  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-11-06 19:22:55.740  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-11-06 19:22:55.740  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-11-06 19:22:55.741  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-11-06 19:22:55.742  [booting time][start]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-11-06 19:22:55.743  [booting time][finish]: [init plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-11-06 19:22:55.744  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-11-06 19:22:55.745  [SETTING] Play game strategy type is set to:  0
+[Info]  2022-11-06 19:22:55.747  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SettingPlugin.dll"
+[Info]  2022-11-06 19:22:55.748  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-11-06 19:22:55.749  [FEEDBACK] Getting remote category version...
+[Info]  2022-11-06 19:22:55.750  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/AccountPlugin.dll"
+[Info]  2022-11-06 19:22:55.751  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-11-06 19:22:55.751  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BrowserPlugin.dll"
+[Info]  2022-11-06 19:22:55.752  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-11-06 19:22:55.754  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/BuriedpointPlugin.dll"
+[Info]  2022-11-06 19:22:55.755  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2022-11-06 19:22:55.756  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/CommandLinePlugin.dll"
+[Info]  2022-11-06 19:22:55.757  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.758  [HYPER_V] Machine Virtualization deceted VirtualBox
+[Info]  2022-11-06 19:22:55.759  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SimulatorMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.760  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-11-06 19:22:55.761  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SidebarPlugin.dll"
+[Info]  2022-11-06 19:22:55.761  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.762  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/HttpDaoMgrPlugin.dll"
+[Info]  2022-11-06 19:22:55.763  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-11-06 19:22:55.763  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MainWindowPlugin.dll"
+[Info]  2022-11-06 19:22:55.764  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2022-11-06 19:22:55.765  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/SearchPlugin.dll"
+[Info]  2022-11-06 19:22:55.766  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-11-06 19:22:55.767  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/MyGamePlugin.dll"
+[Info]  2022-11-06 19:22:55.769  [booting time][start]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-11-06 19:22:55.770  [booting time][finish]: [start plugin]  "C:/Program Files (x86)/BlueStacks X/xplugins/StrategyPlugin.dll"
+[Info]  2022-11-06 19:22:56.237  load url:  "https://bsxplayerv4.bluestacks.com/home"
+[Info]  2022-11-06 19:22:56.866  [Update] http callback:  "{\"success\":true,\"versionCode\":\"0.18.15.5\",\"downloadUrl\":\"https://cdn3.bluestacks.com/downloads/windows/bsx-update/0.18.15.5/BlueStacks%20X-Update_0.18.15.5.exe\",\"upgradeType\":0,\"updateTime\":\"2022-09-13 09:12:00.988000+00:00\"}"
+[Info]  2022-11-06 19:22:56.866  [booting time][finish]:[update][get version] request success
+[Info]  2022-11-06 19:22:56.866  [Update] can enter mainwindow.
+[Info]  2022-11-06 19:22:56.866  [Update] can enter mainwindow.
+[Info]  2022-11-06 19:22:57.081  [Update] http callback:  "{\"country\": \"IN\", \"latlong\": \"27.176670,78.008074\"}"
+[Info]  2022-11-06 19:22:57.081  [PlayerMode] country code is:  "IN"
+[Info]  2022-11-06 19:22:57.086  [booting time][finish]:  "country code"
+[Info]  2022-11-06 19:22:57.086  [GRM]Grm File Downloaded Finished
+[Info]  2022-11-06 19:22:57.086  [booting time][start] Grm Config File Downloaded started
+[Warn]  2022-11-06 19:23:00.791  将根据已有的meta标签来设置缩放比例
+[Info]  2022-11-06 19:23:00.820  [UPDATE]Using internet update
+[Warn]  2022-11-06 19:23:00.820  [UPDATE]No local BS5 compatible returned, default to true
+[Warn]  2022-11-06 19:23:00.820  [UPDATE]No local BS5 version returned
+[Info]  2022-11-06 19:23:00.820  [UPDATE]Returned remote BS5 version: "5.9.350.1035"
+[Warn]  2022-11-06 19:23:00.820  [UPDATE]No BS5 needs auto download returned, default to true
+[Info]  2022-11-06 19:23:00.820  [UPDATE]Default image for virtual box is set to "Nougat32"
+[Info]  2022-11-06 19:23:00.820  [UPDATE]Default image for Hyper-V is set to "Nougat64"
+[Info]  2022-11-06 19:23:00.820  [UPDATE]Returned supported player images
+[Info]  2022-11-06 19:23:00.836  [UPDATE]Started quick download -> normal
+[Info]  2022-11-06 19:23:00.836  [booting time][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.9.350.1035&oem=nxt&locale=en"
+[Info]  2022-11-06 19:23:01.103  [STATS]STATS: {67222f8b-1e36-4467-8834-118efe429e50} -> 200
+[Info]  2022-11-06 19:23:01.118  [FEEDBACK] Getting remote category version finished
+[Info]  2022-11-06 19:23:01.118  [STATS]STATS: get_quest_info -> 200
+[Info]  2022-11-06 19:23:01.134  [FEEDBACK] Remote category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2022-11-06 19:23:01.134  [FEEDBACK] Reading local category...
+[Info]  2022-11-06 19:23:01.134  [FEEDBACK] No local category exists... downloading new...
+[Info]  2022-11-06 19:23:01.754  [GRM]Grm Config File Downloaded Finished
+[Info]  2022-11-06 19:23:01.754  [booting time][finish] Grm Config File Downloaded Finished
+[Info]  2022-11-06 19:23:02.368  [GRM]Grm Download System Finished with success
+[Info]  2022-11-06 19:23:02.400  [FEEDBACK] Downloading category finished
+[Info]  2022-11-06 19:23:02.400  [FEEDBACK] Reading local category...
+[Info]  2022-11-06 19:23:02.400  [FEEDBACK] Local category version got "7ac68c96-eaa1-4569-99db-23e6a07f1c27"
+[Info]  2022-11-06 19:23:02.400  [FEEDBACK] Category resolved finished with length of en of 8
+[Warn]  2022-11-06 19:23:02.647  "Wrong GlMode of AGA_DX ofcom.garena.game.ftmtw"
+[Warn]  2022-11-06 19:23:02.663  "Wrong GlMode of AGA_DX ofcom.firstmeetgame.fairytailtw.gp"
+[Info]  2022-11-06 19:23:02.867  [GRM] Reading Grm file finished with 503 ms
+[Info]  2022-11-06 19:23:02.867  [GRM] Grm resolved with 995
+[Info]  2022-11-06 19:23:02.867  [GRM] Grm resolved BS5 update with 0
+[Warn]  2022-11-06 19:23:03.039  Property 'content'' of object 'WebBridge' has no notify signal and is not constant, value updates in HTML will be broken!
+[Info]  2022-11-06 19:23:03.086  "[booting time][finish]:qwebChannelConnectCompleted"
+[Info]  2022-11-06 19:23:03.086  [postWebVersionInfo(BSX)]:
+ {
+    "data": {
+        "name": "BlueStacks X Version",
+        "stamp": "20220908-0623_prod",
+        "version": "bsxweb-v0.18.30.1001"
+    },
+    "event": "postWebVersionInfo",
+    "ga": {
+    },
+    "page": 0
+}
+
+[Info]  2022-11-06 19:23:03.086  "[booting time][start]:preClientConfigFetch"
+[Info]  2022-11-06 19:23:03.102  [booting time][finish]: [home webengine] load success
+[Info]  2022-11-06 19:23:03.118  [booting time][finish]: [Get app image preference] success
+[Info]  2022-11-06 19:23:03.604  "[booting time][finish]:preClientConfigFetch"
+[Info]  2022-11-06 19:23:04.895  "[booting time][start]:preCoreDataLoad"
+[Info]  2022-11-06 19:23:04.897  "[booting time][start]:fetchFeatureApps"
+[Info]  2022-11-06 19:23:04.900  "[booting time][start]:fetchRotationApps"
+[Info]  2022-11-06 19:23:04.901  "[booting time][start]:fetchGameCenterApps"
+[Info]  2022-11-06 19:23:05.583  "[booting time][finish]:fetchGameCenterApps"
+[Info]  2022-11-06 19:23:05.591  "[booting time][finish]:fetchFeatureApps"
+[Info]  2022-11-06 19:23:06.556  "[booting time][finish]:fetchRotationApps"
+[Info]  2022-11-06 19:23:06.558  "[booting time][finish]:preCoreDataLoad"
+[Info]  2022-11-06 19:23:06.560  "[booting time][finish]:showWebPage"
+[Info]  2022-11-06 19:23:06.579  [booting time][finish]:  "home web page"
+[Info]  2022-11-06 19:23:06.587  [booting time][finish]:  booting view
+[Info]  2022-11-06 19:23:06.588  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.smallgiantgames.empires.jpg"
+[Info]  2022-11-06 19:23:06.589  Using VLC Player..............................
+[Info]  2022-11-06 19:23:07.482  [enter mainwindow.......]
+[Info]  2022-11-06 19:23:07.526  [DB] vlc init
+[Info]  2022-11-06 19:23:07.541  [PlayerMode] Remove the cloud mode function module.
+[Warn]  2022-11-06 19:23:07.577  QObject::connect(QAbstractState, CreatorStudioIndicator): invalid nullptr parameter
+[Warn]  2022-11-06 19:23:07.578  QStateMachine::addState: cannot add null state
+[Info]  2022-11-06 19:23:07.578  "[INSTALL] No Engine program data detected, default to C:"
+[Info]  2022-11-06 19:23:07.578  "[INSTALL] Checking Disk space of C: .. Got 380682 MB left"
+[Info]  2022-11-06 19:23:07.578  [INSTALL]Quick downloading started
+[Info]  2022-11-06 19:23:08.405  banner download finished: "https___cdn-bgp.bluestacks.com_bgp_fullhd_com.smallgiantgames.empires.jpg"
+[Info]  2022-11-06 19:23:09.529  [STATS]STATS: {b30aabe7-d547-41c7-a049-a193e065295f} -> 200
+[Info]  2022-11-06 19:23:09.533  [STATS]STATS: {52024d26-7f5c-40ed-ae03-31e02ea7c946} -> 200
+[Info]  2022-11-06 19:23:18.922  player url:  ""
+[Info]  2022-11-06 19:23:24.072  [BRIDGE]Bridge not ready. BS5 not ready. -> to normal install
+[Info]  2022-11-06 19:23:24.074  [GAME_INSTALL] requesting package download url for ""
+[Info]  2022-11-06 19:23:24.079  [GAME_INSTALL] Request sent
+[Info]  2022-11-06 19:23:26.488  [STATS]STATS: {e8f6d4eb-7faa-4028-8e1f-198f5b03a999} -> 200
+[Info]  2022-11-06 19:23:26.670  [GAME_INSTALL] Request responsed for ""
+[Info]  2022-11-06 19:23:26.671  [GAME_INSTALL] Url:  ""
+[Info]  2022-11-06 19:23:26.672  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-11-06 19:23:26.673  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-11-06 19:23:26.675  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-11-06 19:23:26.676  [DEBUG_TRACKING] Apk url callback--03
+[Warn]  2022-11-06 19:23:26.676  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-11-06 19:23:26.682  [DOWNLOADDLG] command set,code:0, insertImage:48, Position:2
+[Info]  2022-11-06 19:23:26.684  checktype:0, packageName:, appName:
+[Info]  2022-11-06 19:23:26.685  icon:, apkUrl:, playInstance:
+[Info]  2022-11-06 19:23:26.686  apkInstallInstance:, searchQuery:pubg, tracking:
+[Info]  2022-11-06 19:23:26.687  deepLink:, skipConfirm:false
+[Info]  2022-11-06 19:23:28.562  [STATS]STATS: {2e6bb020-feb5-456b-9ab5-1cd5f56e2ddb} -> 200
+[Info]  2022-11-06 19:23:33.057  [STATS]STATS: {be3969af-8050-4280-9f55-82f1a12b621e} -> 200
+[Info]  2022-11-06 19:27:16.377  [INSTALL]File downloaded finished of  "BlueStacks-Installer_5.9.350.1035_amd64_native.exe"
+[Info]  2022-11-06 19:27:18.333  "down url https://cdn3.bluestacks.com/downloads/windows/nxt/5.9.350.1035/60bb40c68dc54e2191e97fc4d5ab1ae8/Android/Nougat32/Nougat32.7z?oem=nxt fail,networkerror: 7 "
+[Info]  2022-11-06 19:27:18.334  [INSTALL]DownloadFileDlg downloaded failed, retrying in 1 seconds.
+[Info]  2022-11-06 19:27:22.345  [STATS]STATS: {9c4f06ea-a919-4bad-bd42-cfdd9c50aeb3} -> 200
+[Info]  2022-11-06 19:29:28.103  player url:  ""
+[Info]  2022-11-06 19:29:28.132  player url:  "https://cdn-bgp.bluestacks.com/bgp/fullhd/com.smallgiantgames.empires.jpg"
+[Info]  2022-11-06 19:29:44.821  player url:  ""
+[Info]  2022-11-06 19:29:46.236  [STATS]STATS: {c7d40bc2-6093-4cba-8f95-9d5c2fc79955} -> 200
+[Warn]  2022-11-06 19:30:04.434  QCoreApplication::postEvent: Unexpected null receiver
+[Info]  2022-11-06 19:30:05.432  [STATS]STATS: {4e96a488-2ebe-49f2-af51-c026e237933e} -> 200
+[Info]  2022-11-06 19:30:54.677  [INSTALL]File downloaded finished of  "Nougat32_5.9.350.1035.7z"
+[Info]  2022-11-06 19:30:55.625  [STATS]STATS: {f3a63947-c9a6-4c21-b923-8e5a3b202991} -> 200
+[Info]  2022-11-06 19:30:55.795  [STATS]STATS: {00eb1bdb-55cc-495b-8e22-7486b49f1e99} -> 200
+[Info]  2022-11-06 19:32:22.238  "app version: 0.18.50.21"
+[Info]  2022-11-06 19:32:22.248  [booting time][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.9.350.1035&oem=nxt&locale=en"
+[Info]  2022-11-06 19:32:23.058  [STATS]STATS: {45777d01-2bed-4570-b215-eaedb2abe12a} -> 200
+[Info]  2022-11-06 19:32:23.133  [UPDATE]Using internet update
+[Info]  2022-11-06 19:32:23.134  [UPDATE]Returned local BS5 compatible true
+[Info]  2022-11-06 19:32:23.134  [UPDATE]Returned local BS5 version: "5.9.350.1035"
+[Info]  2022-11-06 19:32:23.138  [UPDATE]No remote BS5 version returned
+[Info]  2022-11-06 19:32:23.139  [UPDATE]Default image for virtual box is set to "Nougat32"
+[Info]  2022-11-06 19:32:23.141  [UPDATE]Default image for Hyper-V is set to "Nougat64"
+[Info]  2022-11-06 19:32:23.143  [UPDATE]Returned supported player images
+[Info]  2022-11-06 19:32:23.147  [UPDATE]Empty download url in quick download.
+[Info]  2022-11-06 19:32:23.152  [BRIDGE]Bridge url found in engine updates-current
+[Info]  2022-11-06 19:32:23.154  "[BRIDGE]Start downloading bridge file: BridgeTemp_5.9.350.1035.7z"
+[Info]  2022-11-06 19:32:23.157  [booting time][start]: [Get app_image_preference configuration] url=  "https://cloud.bluestacks.com/app_player/get_apps_image_preference?oem=nxt" post data.. "player_version=5.9.350.1035&oem=nxt&locale=en"
+[Info]  2022-11-06 19:32:23.933  [booting time][finish]: [Get app image preference] success
+[Info]  2022-11-06 19:32:25.251  [BRIDGE]Bridge url found in engine updates-current
+[Info]  2022-11-06 19:32:25.251  "[BRIDGE]Start downloading bridge file: BridgeTemp_5.9.350.1035.7z"
+[Info]  2022-11-06 19:32:31.387  [BRIDGE]Bridge file downloading finished with success
+[Info]  2022-11-06 19:32:31.388  "[BRIDGE]Start extracting bridge file: BridgeTemp_5.9.350.1035.7z"
+[Info]  2022-11-06 19:32:33.400  [BRIDGE]Bridge file extracted with 0
+[Info]  2022-11-06 19:32:33.402  [BRIDGE]Loading Bridge...  "C:/Users/stanu/AppData/Local/BlueStacks X/Bridge/5.9.350.1035/HD-Bridge-Native.dll" with
+[Info]  2022-11-06 19:32:33.426  true...
+[Info]  2022-11-06 19:32:33.427  [BRIDGE] Bridge creatorStudio called with json of 
+{
+    "name": "enableCsEffect",
+    "params": {
+        "isEnable": false
+    }
+}
+
+[Info]  2022-11-06 19:32:33.428  Bridge -> update effect ins: ""  uid: ""  token: ""
+[Info]  2022-11-06 19:32:33.465  [PlayerMode] Remove the cloud mode function module.
+[Info]  2022-11-06 19:32:33.472  [BRIDGE]Bridge locale changed to "en-US"
+[Info]  2022-11-06 19:32:35.505  [STATS]STATS: {ebcb0a42-87f6-40f5-9360-6e216081817a} -> 200
+[Info]  2022-11-06 19:32:35.703  [BRIDGE]Google searched with "pubg" in "Nougat32"
+[Info]  2022-11-06 19:32:37.000  [STATS]STATS: {502ba9fa-1022-4fea-af55-d77f2288d1c5} -> 200
+[Info]  2022-11-06 19:32:58.653  [CommandLine]: data=  "BlueStacksX:{}"
+[Info]  2022-11-06 19:32:58.655  [CommandLine]: data=  "-fle=com.pubg.imobile"
+[Info]  2022-11-06 19:32:58.657  [FLE] play  "" "com.pubg.imobile"
+[Info]  2022-11-06 19:32:58.658  [FLE] execute  "" "com.pubg.imobile"
+[Info]  2022-11-06 19:32:58.658  [MyGamePlugin play]: "" , "com.pubg.imobile" , 1 , 1
+[Info]  2022-11-06 19:32:58.659  [MyGamePlugin] Is it a special effect game? false
+[Info]  2022-11-06 19:32:58.660  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2022-11-06 19:32:58.660  [GAME_INSTALL] requesting package download url for "com.pubg.imobile"
+[Info]  2022-11-06 19:32:58.661  [GAME_INSTALL] Request sent
+[Info]  2022-11-06 19:32:59.458  [STATS]STATS: {f4c7cdee-ed14-43a1-8dfd-abebaf932dcc} -> 200
+[Info]  2022-11-06 19:32:59.554  [GAME_INSTALL] Request responsed for "com.pubg.imobile"
+[Info]  2022-11-06 19:32:59.555  [GAME_INSTALL] Url:  ""
+[Info]  2022-11-06 19:32:59.555  [DEBUG_TRACKING] Apk url callback--01
+[Info]  2022-11-06 19:32:59.557  [DEBUG_TRACKING] Apk url callback--04
+[Info]  2022-11-06 19:32:59.557  [DEBUG_TRACKING] Apk url callback--02
+[Info]  2022-11-06 19:32:59.558  APK URL: ""
+[Info]  2022-11-06 19:32:59.559  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2022-11-06 19:32:59.562  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2022-11-06 19:32:59.564  bridgeLaunchAppStore: instance= "Nougat32" package= "com.pubg.imobile" with id "00000000-0000-0000-0000-000000000000" in ""
+[Info]  2022-11-06 19:32:59.575  bridgeLaunchAppStore: 0
+[Info]  2022-11-06 19:32:59.576  [INSTALL_GAME] Installing game of com.pubg.imobile through GooglePlay
+[Info]  2022-11-06 19:32:59.576  [DEBUG_TRACKING] Apk url callback--03
+[Info]  2022-11-06 19:33:00.158  [BRIDGE]CB: Instance state updated Nougat32 : 1 (  ).
+[Info]  2022-11-06 19:33:00.277  [STATS]STATS: {ec095d5a-83e3-4459-b382-62914ef3b0ca} -> 200
+[Info]  2022-11-06 19:33:02.259  [BRIDGE]CB: Instance state updated Nougat32 : 2 (  ).
+[Info]  2022-11-06 19:33:08.989  [BRIDGE]CB: Instance state updated Nougat32 : 3 (  ).
+[Info]  2022-11-06 19:33:09.268  [BRIDGE]CB: App displayed in Nougat32 of com.bluestacks.launcher
+[Info]  2022-11-06 19:33:16.675  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2022-11-06 19:33:23.110  [BRIDGE]CB: App displayed in Nougat32 of com.google.android.gms
+[Info]  2022-11-06 19:34:23.154  [BRIDGE]CB: Account list updated in Nougat32 with ID of pranavsharma5092@gmail.com in 0
+[Info]  2022-11-06 19:34:28.931  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2022-11-06 19:35:12.764  [BRIDGE]CB: Instance list updated
+[Info]  2022-11-06 19:35:12.764  Bridge -> Updating instance list
+[Info]  2022-11-06 19:35:12.766  [BRIDGE]CB: Image install completed of Nougat32_1 with status of 0
+[Info]  2022-11-06 19:35:32.435  [BRIDGE]CB: App displayed in Nougat32 of com.bluestacks.launcher
+[Info]  2022-11-06 19:35:35.306  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2022-11-06 19:36:01.341  [BRIDGE]CB: App displayed in Nougat32 of com.google.android.play.games
+[Info]  2022-11-06 19:36:04.526  [BRIDGE]CB: App displayed in Nougat32 of com.android.vending
+[Info]  2022-11-06 19:36:22.325  player url:  ""
+[Info]  2022-11-06 19:36:22.334  player url:  ""
+[Info]  2022-11-06 19:36:29.482  player url:  ""
+[Info]  2022-11-06 19:36:31.890  player url:  ""
+[Info]  2022-11-06 19:36:32.847  [STATS]STATS: {84c26473-bab3-4f02-83bb-86213e93b4b3} -> 200
+[Info]  2022-11-06 19:36:34.233  player url:  "https://cdn-www.bluestacks.com/bs-images/modern-strike_banner.jpg"
+[Info]  2022-11-06 19:36:36.626  banner download finished: "https___cdn-www.bluestacks.com_bs-images_modern-strike_banner.jpg"
+[Info]  2022-11-06 19:36:37.495  [MyGame]: Promotion action =  "" ""
+[Info]  2022-11-06 19:36:37.497  [MyGamePlugin play]: "" , "com.gamedevltd.modernstrike" , 1 , 0
+[Info]  2022-11-06 19:36:37.498  [MyGamePlugin] Is it a special effect game? false
+[Info]  2022-11-06 19:36:37.498  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2022-11-06 19:36:37.500  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2022-11-06 19:36:37.500  [BRIDGE]Bridge ready. BS5 ready with 5.9.350.1035
+[Info]  2022-11-06 19:36:37.502  bridgeLaunchAppStore: instance= "Nougat32" package= "com.gamedevltd.modernstrike" with id "00000000-0000-0000-0000-000000000000" in ""
+[Info]  2022-11-06 19:36:37.514  bridgeLaunchAppStore: 0
+[Info]  2022-11-06 19:36:37.515  [INSTALL_GAME] Installing game of com.gamedevltd.modernstrike through GooglePlay
+[Info]  2022-11-06 19:36:39.059  [STATS]STATS: {d9a9dd36-a202-455e-a56b-aeb4e212c763} -> 200
+[Info]  2022-11-06 19:36:39.258  [STATS]STATS: {054282f8-aebe-4870-bcf4-94b8e1859f21} -> 200
+[Info]  2022-11-06 19:39:40.534  [CommandLine]: data=  "NULL"
+[Info]  2022-11-06 19:39:43.585  player url:  ""
+[Info]  2022-11-06 19:39:44.497  [STATS]STATS: {92180e39-99af-42a1-a7b3-dceca70e8ae5} -> 200
+[Info]  2022-11-06 19:39:46.692  [STATS]STATS: {50ef30f9-fd9f-4dd7-b54e-3a0632be6812} -> 200
+[Info]  2022-11-06 19:39:49.323  player url:  ""
+[Info]  2022-11-06 19:39:49.325  [DB] BSX is shutting down, Video is off.
+[Info]  2022-11-06 19:39:49.333  [BRIDGE] Requesting shutdown the instance "Nougat32" ,only in hidden true
+[Info]  2022-11-06 19:39:49.335  [BRIDGE] Requesting shutdown the instance "Nougat32_1" ,only in hidden true
+[Info]  2022-11-06 19:39:50.078  [STATS]STATS: {2fbd9f65-d8f6-4b30-bbaa-f437db9f64f7} -> 200
+[Info]  2022-11-06 19:39:50.401  [STATS]Data sent total: 23 , S = 23 , F = 0
