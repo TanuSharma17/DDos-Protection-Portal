@@ -1,0 +1,47 @@
+{
+	"name": "jelly-theme",
+	"displayName": "Jelly Theme",
+	"version": "0.0.4",
+	"publisher": "kylethebaker",
+	"description": "Dark purple for a dark worldl",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kylethebaker/jelly-theme-vscode"
+	},
+	"bugs": {
+		"url": "https://github.com/kylethebaker/jelly-theme-vscode/issues"
+	},
+	"galleryBanner": {
+		"color": "#0a0b12",
+		"theme": "dark"
+	},
+	"icon": "images/icon.png",
+	"scripts": {
+		"build": "vsce package"
+	},
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "jelly",
+				"uiTheme": "vs-dark",
+				"path": "./themes/jelly-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "c043bbd4-c525-434b-afc9-ff1067c0bcb4",
+		"publisherDisplayName": "kylethebaker",
+		"publisherId": "2b7a687c-6620-4559-a375-b4c2027fc538",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1696794727414,
+		"preRelease": false
+	}
+}
