@@ -6,3 +6,5 @@
 [user]
 	email = stanu2966@gmail.com
 	name = Tanu
+[core]
+	autocrlf = true
