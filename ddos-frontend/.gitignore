@@ -1,0 +1,14 @@
+# Ignore Windows system files
+AppData/
+*.log
+*.tmp
+
+# Ignore Visual Studio Code settings and extensions
+.vscode/
+
+# Ignore node_modules (if you're using Node.js)
+node_modules/
+
+# Ignore other cache or temporary files
+*.DS_Store
+*.lock
