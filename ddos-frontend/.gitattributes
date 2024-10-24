@@ -1,2 +1,6 @@
 * text=auto
 .gitignore text eol=lf
+
+
+# Ignore Adobe Acrobat cache files
+AppData/Local/Adobe/*
